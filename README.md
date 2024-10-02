@@ -1,2 +1,2 @@
 # Javascript-projects
-Repository for exercises en projects of Javascript courses
+Repository for exercises and projects of Javascript courses
